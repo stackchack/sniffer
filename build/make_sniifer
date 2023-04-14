@@ -1,0 +1,7 @@
+#!/bin/bash
+sudo rm -rf ./sniffer/
+mkdir sniffer
+cd sniffer
+cmake ../../src/sniffer/
+make
+cd ..
