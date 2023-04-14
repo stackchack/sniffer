@@ -1,2 +1,3 @@
 # sniffer
-HTTP/HTTPS traffic analyser  Необходимые библиотеки: libpcap gtest glog
+HTTP/HTTPS traffic analyser  
+Необходимые библиотеки: libpcap gtest glog
